@@ -1,0 +1,19 @@
+uuid: eb88547b-a30e-44e6-873a-58531c849d28
+langcode: en
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: 3
+is_admin: null
+permissions:
+  - 'use text format basic_toolbar'
+  - 'edit own comments'
+  - 'post comments'
+  - 'skip comment approval'
+  - 'access comments'
+  - 'create blog content'
+  - 'delete any blog content'
+  - 'delete own blog content'
+  - 'edit any blog content'
+  - 'edit own blog content'

@@ -1,0 +1,16 @@
+uuid: 2cefb96f-a9e6-42bc-9600-b77f1b236b7f
+langcode: en
+status: true
+dependencies: {  }
+id: author
+label: Author
+weight: 4
+is_admin: null
+permissions:
+  - 'use text format basic_toolbar'
+  - 'edit own comments'
+  - 'post comments'
+  - 'access comments'
+  - 'create blog content'
+  - 'delete own blog content'
+  - 'edit own blog content'

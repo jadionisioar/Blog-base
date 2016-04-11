@@ -1,0 +1,16 @@
+uuid: 333f3cfd-1787-4935-8000-c5453bf3c0ba
+langcode: en
+status: true
+dependencies: {  }
+id: contributor
+label: Contributor
+weight: 5
+is_admin: null
+permissions:
+  - 'use text format basic_toolbar'
+  - 'edit own comments'
+  - 'post comments'
+  - 'access comments'
+  - 'create blog content'
+  - 'delete own blog content'
+  - 'edit own blog content'

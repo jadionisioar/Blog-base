@@ -1,0 +1,11 @@
+uuid: 6082e701-82c0-4a8a-9100-e536d2bf349b
+langcode: en
+status: true
+dependencies: {  }
+id: subscriber
+label: Subscriber
+weight: 6
+is_admin: null
+permissions:
+  - 'use text format basic_toolbar'
+  - 'access comments'

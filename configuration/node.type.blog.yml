@@ -1,0 +1,11 @@
+uuid: 40acbc8a-2a2a-4b5d-a02c-4457c8b71291
+langcode: en
+status: true
+dependencies: {  }
+name: Blog
+type: blog
+description: 'Used in the daily blog section.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

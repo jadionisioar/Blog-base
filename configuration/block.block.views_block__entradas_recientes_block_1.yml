@@ -1,0 +1,24 @@
+uuid: d9c1da1f-5bab-4c77-a654-84bedf8125a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.entradas_recientes
+  module:
+    - views
+  theme:
+    - seven
+id: views_block__entradas_recientes_block_1
+theme: seven
+region: help
+weight: -4
+provider: null
+plugin: 'views_block:entradas_recientes-block_1'
+settings:
+  id: 'views_block:entradas_recientes-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }

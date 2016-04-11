@@ -1,0 +1,14 @@
+uuid: ac54d202-c52c-4e78-8600-fcdfdab973d7
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.subscriber
+  module:
+    - user
+id: user_remove_role_action.subscriber
+label: 'Remove the Subscriber role from the selected users'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: subscriber
